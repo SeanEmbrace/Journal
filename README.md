@@ -3,4 +3,4 @@ Primarily a spot for wildly creative writing, but in hopes that I can brush up o
 -------
 **_Welcome to my creative space!_**
 
-1: [Posted](Journal/Posted.md)
+1: [Posted](https://github.com/SeanEmbrace/Journal/blob/master/Posted.md)
