@@ -1,15 +1,15 @@
 ---
 ### Zak Projects!
 ---
-'func projectFunk(Album: embrace.Zak.projectFunk/)'
+projectFunk(Album: embrace.Zak.projectFunk/)
 
-'{'
+{
 
-  'Case funkyTwn'
+  Case funkyTwn
   
-  'Case digiDont'
+  Case digiDont
   
-  'Case hipHp'
+  Case hipHp
   
- ' }'
+ }
  
