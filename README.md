@@ -4,4 +4,5 @@ Primarily a spot for wildly creative writing, but in hopes that I can brush up o
 **_Welcome to my creative space!_**
 
 [_Posted_](https://github.com/SeanEmbrace/Journal/blob/master/Posted.md)
+
 [_Zak Projects_](https://github.com/SeanEmbrace/Journal/blob/master/ZakProjects.md)
