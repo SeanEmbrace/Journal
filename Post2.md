@@ -1,7 +1,7 @@
 ---
 ### Zak Projects!
 ---
-projectFunk(Album: embrace.Zak.projectFunk/){
+**projectFunk**(Album: *embrace*.Zak.projectFunk/){
 
   Case funkyTwn
   
