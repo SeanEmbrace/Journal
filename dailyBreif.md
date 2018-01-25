@@ -10,8 +10,10 @@ Tasks:
 
 - [x] siteUp()
 
-[] .embracePlanner
+- [x] discord()
 
-[] .mediaUp
+- [] .embracePlanner
+
+- [] .mediaUp
 
 <body background="https://seanembrace.github.io/assets/img/logo.png">
