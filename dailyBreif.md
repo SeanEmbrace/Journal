@@ -1,21 +1,14 @@
 
-#### Sean Lasater
+#### embrace
 <p align="Left">
   <img width="100" height="100" src="https://seanembrace.github.io/assets/img/logo.png">
 </p>
 
 ---
+### Morning,
+Tasks/
+- [] Rough Zach song edit (GB/Ableton)
 
-Tasks:
+- [] More site cleanup
 
-- [x] siteUp()
-
-- [x] discord()
-
-- [] .embracePlanner
-
-- [] .mediaUp
-
-- [:(] working webhook
-
-<body background="https://seanembrace.github.io/assets/img/logo.png">
+...until 5pm
