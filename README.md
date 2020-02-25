@@ -6,3 +6,5 @@ Primarily a spot for wildly creative writing, but in hopes that I can brush up o
 [_Posted_](https://github.com/SeanEmbrace/Journal/blob/master/Posted.md)
 
 [_Zak Projects_](https://github.com/SeanEmbrace/Journal/blob/master/ZakProjects.md)
+
+[_New Exciting News!_](https://github.com/SeanEmbrace/Journal/blob/master/New.md)
